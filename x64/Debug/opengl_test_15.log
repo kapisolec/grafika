@@ -1,0 +1,27 @@
+﻿  glad.c
+  opengl_test15.cpp
+C:\Users\fraktal\source\repos\opengl_test\include\learnopengl\shader_m.h(44,40): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\fraktal\source\repos\opengl_test\opengl_test_15\opengl_test15.cpp(220,28): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\fraktal\source\repos\opengl_test\opengl_test_15\opengl_test15.cpp(314,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\fraktal\source\repos\opengl_test\opengl_test_15\opengl_test15.cpp(315,17): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\fraktal\source\repos\opengl_test\opengl_test_15\opengl_test15.cpp(319,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\fraktal\source\repos\opengl_test\opengl_test_15\opengl_test15.cpp(320,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\fraktal\source\repos\opengl_test\opengl_test_15\opengl_test15.cpp(322,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\fraktal\source\repos\opengl_test\opengl_test_15\opengl_test15.cpp(323,13): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\fraktal\source\repos\opengl_test\opengl_test_15\opengl_test15.cpp(332,31): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+glfw3.lib(context.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(context.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(init.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(init.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(input.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(input.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(monitor.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(monitor.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(vulkan.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(vulkan.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(window.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(window.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_init.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(win32_init.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_joystick.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(win32_joystick.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_monitor.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(win32_monitor.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_time.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(win32_time.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_thread.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(win32_thread.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(win32_window.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(win32_window.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(wgl_context.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(wgl_context.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(egl_context.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(egl_context.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+glfw3.lib(osmesa_context.obj) : warning LNK4099: nie znaleziono pliku PDB „glfw.pdb” z elementem „glfw3.lib(osmesa_context.obj)” lub w pozycji „C:\Users\fraktal\source\repos\opengl_test\x64\Debug\glfw.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+  opengl_test_15.vcxproj -> C:\Users\fraktal\source\repos\opengl_test\x64\Debug\opengl_test_15.exe
